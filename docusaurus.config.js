@@ -47,12 +47,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           src: 'img/logo.svg',
         },
         items: [
+          /* wont need it, would be nice to have it in the future.
           {
             type: 'doc',
             docId: 'intro',
             position: 'left',
             label: 'Tutorial',
           },
+          */
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/yzeng25',
