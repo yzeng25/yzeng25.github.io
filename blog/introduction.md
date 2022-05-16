@@ -47,7 +47,7 @@ authors: [yilin]
 
         1. [Algolia DocSearch 搜索框失效的排查及修复过程](https://github.com/cnrancher/docs-rancher2/wiki/Algolia-DocSearch-%E6%90%9C%E7%B4%A2%E6%A1%86%E5%A4%B1%E6%95%88%E7%9A%84%E6%8E%92%E6%9F%A5%E5%8F%8A%E4%BF%AE%E5%A4%8D%E8%BF%87%E7%A8%8B)
 
-        1. [Algolia搜索框注意事项](Algolia搜索框注意事项)
+        1. [Algolia搜索框注意事项](https://github.com/cnrancher/docs-rancher2/wiki/Algolia%E6%90%9C%E7%B4%A2%E6%A1%86%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9)
 
         1. [master分支和preview分支构建失败详解](https://github.com/cnrancher/docs-rancher2/wiki/master%E5%88%86%E6%94%AF%E5%92%8Cpreview%E5%88%86%E6%94%AF%E6%9E%84%E5%BB%BA%E5%A4%B1%E8%B4%A5%E8%AF%A6%E8%A7%A3)
 
@@ -55,7 +55,7 @@ authors: [yilin]
 
 1. 我的常用工具和选型思路：
 
-    1. 为什么要用付费工具 [Dr.LinkCheck](www.drlinkcheck.com) 为开源网站进行服务？
+    1. 为什么要用付费工具 [Dr.LinkCheck](https://www.drlinkcheck.com) 为开源网站进行服务？
 
     1. 为什么要从 Google Analytics 转到 百度统计？
 
