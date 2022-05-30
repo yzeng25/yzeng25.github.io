@@ -55,7 +55,7 @@ authors: [yilin]
 
 1. 我的常用工具和选型思路：
 
-    1. [为什么要用付费工具 Dr.LinkCheck 为开源网站进行服务？](./broken-link-check-tools)
+    1. 为什么要用付费工具 [Dr.LinkCheck](https://www.drlinkcheck.com) 为开源网站进行服务？
 
     1. 为什么要从 Google Analytics 转到 百度统计？
 
