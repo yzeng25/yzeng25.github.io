@@ -1,6 +1,6 @@
 ---
 slug: analytics-tools
-title: 为什么要从 Google Analytics 转到 百度统计
+title: 为什么要从 Google Analytics 转到百度统计
 authors: [yilin]
 ---
 
