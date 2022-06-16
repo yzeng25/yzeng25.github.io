@@ -97,7 +97,7 @@ plugins: ["@docusaurus/plugin-baidu-analytics"],
 
 1. 需要在 `docusaurus.config.js` 添加配置信息才会生效。删除这些配置信息之后，已有的结果不会失效，但是 Algolia 不能获取到增量变化的文档和页面。具体表现为，一部分失效了，另一部分还是正常的。
 
-![test](/img/algolia.png)
+![aloglia rancher architecture](/img/algolia.png)
 
 ## 参考资料
 
